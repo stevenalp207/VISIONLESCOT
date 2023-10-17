@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+FormatoYolo/
+venv/
+*.png
+*.jpeg
+*.yaml
+*.mp4
+*.pt
+*.log
