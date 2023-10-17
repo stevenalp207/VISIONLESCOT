@@ -3,8 +3,8 @@
 
 ***ABSTRACT***— LESCOT is a project created for the Science and Technology Expo EXPOTEC 2023 at CTP Cedes Don Bosco. Project LESCOT is undertaken by 4 students from the 2025 GEN (Tenth Grade) specializing in Industrial Electronics. They aim to provide a solution to the existing communication gaps in daily life between hearing and deaf individuals, with the adaptability of a LESCO translator, a solution intended for use by the Costa Rican community.
 
-![Logo de CEDES para otros fondos](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/e6482d02-b90e-4d08-8b99-0365c0237418)
-![LESCOT2](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/6229ec28-c2ca-4efc-8a41-0acde669cab8)
+![Logo de CEDES para otros fondos](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/6e273c75-4a27-4ef7-91cb-c001d77da450)
+![LESCOT2](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/113b04e3-d4af-455a-9041-383a45825a9f)
 
 ## NUESTRO OBJETIVO
 - Proponer una solución a las brechas de comunicación en familias o la propia vida cotidiana de las personas con discapacidad auditiva con la adaptabilidad de un “traductor” de LESCO (Lenguaje de Señas Costarricense) a texto en pantalla, mejorando así la inclusión y accesibilidad a la información y servicios para la comunidad costarricense.
@@ -24,7 +24,7 @@ El Machine Learning culmina con la creación de un modelo con toda la informaci�
 
 ------------
 
-![graph datapy](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/ea129b2c-dde5-4fbe-8fe2-e2e3c748f7ca)
+![graph datapy](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/05932f0c-ab56-4a52-ba83-5afc3cf7f3f6)
 
 ------------
 
@@ -32,7 +32,7 @@ El Machine Learning culmina con la creación de un modelo con toda la informaci�
 
 ------------
 
-![graph inferenciapy](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/752aca12-4f9d-45e1-a820-1d424b95013f)
+![graph inferenciapy](https://github.com/stevenalp207/VISIONLESCOT/assets/144076399/d7aeae40-22c9-4365-b78b-5c055b3501f7)
 
 ------------
 
